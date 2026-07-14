@@ -21,4 +21,4 @@ export const speak = (text, { onend, onerror } = {}) => {
 export const stop = () => {
   window.speechSynthesis.cancel();
   currentUtterance = null;
-};
+};mo
