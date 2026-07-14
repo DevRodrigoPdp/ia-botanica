@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { speak, stopSpeaking, isSpeaking } from '../services/tts';
 
 export const useTTS = () => {
-  const [isSpeakingState, setIsSpeakingState] = useState(false);
+  const [, setIsSpeaking] = useState(false);
 
   const startSpeaking = (text) => {
     speak(

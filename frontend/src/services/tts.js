@@ -3,8 +3,6 @@
  * Hace que la IA hable
  */
 
-let currentUtterance = null;
-
 export const speak = (text, onStart, onEnd, onError) => {
   // Cancela si ya está hablando
   if (window.speechSynthesis.speaking) {
