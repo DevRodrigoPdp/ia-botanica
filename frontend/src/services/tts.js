@@ -7,7 +7,7 @@ export const speak = (text, { onend, onerror } = {}) => {
   }
 
   currentUtterance = new SpeechSynthesisUtterance(text);
-  currentUtterance.lang = 'es-ES';
+  currentUtterance.lang = "es-ES";
   currentUtterance.rate = 0.9;
   currentUtterance.pitch = 1;
   currentUtterance.volume = 1;
@@ -21,4 +21,5 @@ export const speak = (text, { onend, onerror } = {}) => {
 export const stop = () => {
   window.speechSynthesis.cancel();
   currentUtterance = null;
-};mo
+};
+
