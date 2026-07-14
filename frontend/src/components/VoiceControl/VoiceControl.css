@@ -1,0 +1,61 @@
+.voice-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.voice-btn {
+  padding: 12px 16px;
+  background: #2ecc71;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: all 0.2s;
+  font-weight: bold;
+}
+
+.voice-btn:hover:not(:disabled) {
+  background: #27ae60;
+  transform: scale(1.05);
+}
+
+.voice-btn:disabled {
+  background: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.voice-btn.listening {
+  background: #e74c3c;
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.listening-indicator,
+.speaking-indicator {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 6px 12px;
+  border-radius: 20px;
+  animation: bounce 0.5s infinite;
+}
+
+.listening-indicator {
+  background: #e74c3c;
+  color: white;
+}
+
+.speaking-indicator {
+  background: #3498db;
+  color: white;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
