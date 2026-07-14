@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ia-botanica",
+  "private_key_id": "a714eb0dae518eb231ab1864b91a5cdc4f76c508",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9C/a8n149ICeL\n0RvzGCEB/tnVVfPvFUGB9xLPP5Vm+zAki2D+ULnaW1CvyAB1op395/yzmXgJwHq3\nrBudZC/+6m1EEkCFVQlMUXvO3gpQNYfahFzY3ilBPrWa6NPynWfOvkzQPzbhOtqb\nU1T5Vjdr0MP1Z8vG03GT3Kwq/6woYztHNJ90wIId8SwIRqZXzPJUgemgZ+b3dNxI\nExjooysdbPxYG3ohkZwqcFTWqI5mqOnCU/RYzKa/KrEOI6YHpAmjV4P3OXDOWWfn\ntplPI9W34+4fyPjAkKMHbTB78LTHTTRhuUm8yXAY7jZkyr7crEhTI1SLFgMrxAaQ\nbfqqEZcNAgMBAAECggEAAmQtWdN2QLWwal9ZyChs+nZ70OwGaubM7lTuwvpd7HCO\n+lddAbqJr05qZd7Uyqgk8XpGwwrU7uKlar9dlg8XYFUczrigYk9iD7oUI9jBLqSO\ntF/qQMAGq5GcgHojfDUrg/z6QcQa8Jxq+X4DXCgQCWgZongOptQz4pfvAZg8WEJr\nf7G4fApycA0v1qJN/dKvanPJKcQtHLdvBmuUTFh+zTXfMQRYOaw8KM9IBOuyDe0c\nIvV+YC3INmUYgcrAUdv/O07QExgF3AqbySLRZEDgHpMPi1dKs5ATEScgT2i1UQrT\nxaGsw9CdSLvK/XFCwpxWp5OgdPKtSE0fVKsgMJ1yrQKBgQDtPS/evUO0KY40yGxC\nfyBLjZmDL+tFe2dl5LcSYSz++wgblX/C0Aq37OYGnx6Fhr3LT/44Y7nJBLr2Lt0T\nGO3WJb1hN+ts/odFJgrlKcq9mlk2kgw0DHu0fC9f9Tkr0cVHwAZ+Yfir9YF1WLWT\nF2lM+bzrL07Sq3jW/SVtbwQzcwKBgQDL/ySBLSnllCe1h3OsYFcJ3HZCwZkUFatX\njXqvKQfiHKCphK56enS5TXZJNrNsHj8YP84Qq9aHNT74DOYxKUl5L8TxDvJQYDKJ\nW+MgNLSxwwGSEGmvv+K19lZgQ7NL5ICSAoaDQHMq3P5Jd3g8LUx5DzMjsyD7FaF0\nz/ooo9lrfwKBgQDO7tkrk7FTnA/DsLLlydeUr32g9ZJlt/933GlnqcXC35qx3NRl\nTGydBBGc4vyPgflZN3xLGYm7ctnV1QjXGJ6UdbTb8Rf0qYu6YDWOsMZ8Xf7FX90v\nJVheFRiJve/RbheDv1aqtLBg5jO29Nrk473g+9Gy30AE+Lbd6E/WRcjHSwKBgEQz\nxmmlxucptGj9o0/TWeZDHgrNnTdY01NPSuA7EJapSZHDeW4beODnJA/wSOZx6lha\nJLPwL6Y+yBG4hlGTYywwK2EIxTzYHK1N2k7PMEZqUyEZeaw3tD1v4YsHt289Mzsd\nuwkwyBBhmGbJmZpM7s9epJNf9TvdDID4c8OYnD1TAoGAP3VnOOPV/+az9RSy6j3g\nSLuEWPBR0IXIYffXyAa8aIODCvdj6TRwPkpvNj9Bx2Yn/fySNZumnUB/TpRS/bHj\nx79KJTHezkjEqjNahnzV+JNCrg4LlMkdPd6lPNQznPNJ7pgjGoRHRPenpo9qOWyk\nPHcdEhzDOdaH8xP5OeWBpIk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@ia-botanica.iam.gserviceaccount.com",
+  "client_id": "101755306439962908599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40ia-botanica.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
